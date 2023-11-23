@@ -1,4 +1,4 @@
-## Interactive Dashboard for the Visualization of Pending Judicial Cases in India
+## Pending Judicial Cases in India Visualization App
 
 India's judicial landscape is characterised by an overwhelming backlog of cases spanning various levels, from the Supreme Court to lower district courts.
 
